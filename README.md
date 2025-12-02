@@ -1,2 +1,3 @@
 # sample-Repo
-This repository im learning to use git commands 
+ IN this repository im learning to use git commands
+ ## Editing this file 
